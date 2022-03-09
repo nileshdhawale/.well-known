@@ -17,7 +17,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.sephora",
+      "package_name": "com.example.myapplink",
       "sha256_cert_fingerprints": [
         "B5:7E:48:1C:14:97:BA:4D:42:AC:98:EE:1B:C8:15:80:0B:95:94:41:37:55:EE:1E:7F:B9:40:F8:89:92:20:CF"
       ]
