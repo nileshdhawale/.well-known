@@ -5,18 +5,6 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.applink",
-      "sha256_cert_fingerprints": [
-        "12:73:46:BF:9C:F2:DC:8D:8F:5E:7A:A3:65:50:CA:65:05:BC:08:CF:BC:79:BF:D6:AC:35:04:20:D6:B3:EC:B9"
-      ]
-    }
-  },
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
       "package_name": "com.sephora",
       "sha256_cert_fingerprints": [
         "B5:7E:48:1C:14:97:BA:4D:42:AC:98:EE:1B:C8:15:80:0B:95:94:41:37:55:EE:1E:7F:B9:40:F8:89:92:20:CF"
