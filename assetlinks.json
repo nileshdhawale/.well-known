@@ -10,5 +10,17 @@
         "8E:C3:22:02:7F:76:6B:AF:7F:2D:AA:57:AB:DE:9A:22:42:D0:71:CA:C5:80:AF:5E:3C:E4:FC:C8:04:13:A1:03"
       ]
     }
+  },
+   {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.applink",
+      "sha256_cert_fingerprints": [
+        "B5:7E:48:1C:14:97:BA:4D:42:AC:98:EE:1B:C8:15:80:0B:95:94:41:37:55:EE:1E:7F:B9:40:F8:89:92:20:CF"
+      ]
+    }
   }
 ]
