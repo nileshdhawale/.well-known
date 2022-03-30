@@ -1,16 +1,13 @@
 [
   {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.sephora",
-      "sha256_cert_fingerprints": [
-        "8E:C3:22:02:7F:76:6B:AF:7F:2D:AA:57:AB:DE:9A:22:42:D0:71:CA:C5:80:AF:5E:3C:E4:FC:C8:04:13:A1:03"
-      ]
-    }
-  },
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sephora",
+    "sha256_cert_fingerprints":
+    ["1C:E1:6B:E0:A6:B0:E4:4E:30:44:A3:EF:F8:4C:0A:BD:AE:C6:D0:E7:DB:89:9C:2B:37:D8:75:FD:94:44:D8:1E"]
+  }
+},
    {
     "relation": [
       "delegate_permission/common.handle_all_urls"
